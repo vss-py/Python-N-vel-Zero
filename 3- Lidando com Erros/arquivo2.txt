@@ -1,0 +1,7 @@
+O Zen do Python, por Tim Peters
+Bonito é melhor que feio.
+Explícito é melhor que implícito.
+Simples é melhor que complexo.
+Complexo é melhor que complicado.
+Linear é melhor do que aninhado.
+Esparso é melhor que denso.
