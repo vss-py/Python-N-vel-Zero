@@ -3,7 +3,7 @@ Este projeto visa passar alguns conceitos e demonstrações cruciais do python, 
  
 <h1><i>Ementa</i></h1>
 
-<h2><b>Observações:</b> Aqui não está incluso desenvolvimento python para web, pois a utilização de frameworks específicos (como o django, flask, pyweb) se torna uma opção mais viável.
+<h2><b>Observações:</b> Aqui não está incluso desenvolvimento python para web, pois a utilização de frameworks específicos (como o django, flask, pyweb) se torna uma opção mais viável.</h2>
 <h1><i>Versões utilizadas</i></h1>
 
 
