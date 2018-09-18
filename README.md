@@ -1,6 +1,6 @@
 <h1><i>PythonNivelZero</i></h1>
-Este projeto visa passar alguns conceitos e demonstrações cruciais do python, usando como guia o livro Use a Cabeça Python. Com o objetivo de ser prático e propriamente objetivo, este pode ser o ponto de partida de quem deseja se aventurar no aprendizado desta maravilhosa linguagem que vem demonstrando uma grande plasticidade, como também para aqueles que necessitam ter o conhecimento para a realização de tarefas pontuais, sejam acadêmicas ou hobbies. Para tanto, o projeto visa explorar as principais características do python, sem que exija de algum conhecimento prévio. Por conta disto, a escolha do livro.  
- 
+Este projeto visa passar alguns conceitos e demonstrações cruciais do python, usando como guia o livro Use a Cabeça Python. Com o objetivo de ser prático e propriamente objetivo, este pode ser o ponto de partida de quem deseja se aventurar no aprendizado desta maravilhosa linguagem que vem demonstrando uma grande plasticidade, como também para aqueles que necessitam ter o conhecimento para a realização de tarefas pontuais, sejam acadêmicas ou hobbies. Para tanto, o projeto visa explorar as principais características do python, sem que exija de algum conhecimento prévio. Por conta disto, a escolha do livro. Ao final de cada 'capítulo', pretendo demonstrar alguns exemplos a mais.
+Então, se você tá com dúvida, quer exemplos de aplicação, quer entender alguns conceitos, clona o projeto e vamos codar juntos.   
 <h1><i>Ementa</i></h1>
 <ol>
 	<li><h2>0-Laços, Strings, Listas, Dicionários, Condições</h2></li>
