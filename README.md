@@ -41,20 +41,12 @@ Então, se você tá com dúvida, quer exemplos de aplicação, quer entender al
 </ol>
 <h2><i>Como utilizar</i><h2>
 <ol>
-	<ol>
-		<li>No Linux</li>
-		<li>sudo apt-get install python-pip (para a instalação do pip);</li>
-		<li>sudo apt-get install python-dev;</li>
-		<li>pip install jupyter (para a instalação do jupyter);</li>
-		<li>ainda no terminal, rode: jupyter notebook, dentro do diretório que deseja armazenar seus códigos;</li>
-		<li>clique na aba news -> python3, e comece a brincar.</li>
-		<li>Para executar cada linha de código, segure shift e aperte Enter, do contrário ele apenas pulará linha;</li>
-		<li>O Jupyter é um IDE bem intuitivo e de fácil assimilação. Não se esqueça de salvar o jogo antes de desligar o video-game.</li>
-	</ol>
-	<ol>
-		<li>No Mac</li>
-	</ol>
-	<ol>
-		<li>No Windows</li>
-	</ol>
+	<li>No Linux</li>
+	<li>sudo apt-get install python-pip (para a instalação do pip);</li>
+	<li>sudo apt-get install python-dev;</li>
+	<li>pip install jupyter (para a instalação do jupyter);</li>
+	<li>ainda no terminal, rode: jupyter notebook, dentro do diretório que deseja armazenar seus códigos;</li>
+	<li>clique na aba news -> python3, e comece a brincar.</li>
+	<li>Para executar cada linha de código, segure shift e aperte Enter, do contrário ele apenas pulará linha;</li>
+	<li>O Jupyter é um IDE bem intuitivo e de fácil assimilação. Não se esqueça de salvar o jogo antes de desligar o video-game.</li>
 </ol>
