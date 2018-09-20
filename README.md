@@ -24,11 +24,23 @@ Então, se você tá com dúvida, quer exemplos de aplicação, quer entender al
 	<li>Abrir, ler, processar, encerrar... Entenda a importância de saber o funcionamento do python por trás destas etapas e porquê elas são necessárias. Como sempre, os dados podem não ser oriundos de inputs, mas de arquivos, logo, temos que lidar com isso.</li>
 </ol>
 <ol>
-	<li><h2>5-Haja como profissional: TESTE ESSA JOSSA!</h2></li>
+	<li><h2>5-Trabalhe com os Dados</h2></li>
+	<li>Na maioria das vezes em que desenvolvemos algum programa, queremos pegar dados externos. Ou seja, o nosso programa deve abrir algum arquivo externo, e ser capaz de ler e processar estes dados. Então, basicamente só há uma principal via de realizar isso: abrir - processar - fechar o arquivo.</li>
+</ol>
+<ol>
+	<li><h2>6-Personalizando seus Dados</h2></li>
+	<li></li>
+</ol>
+<ol>
+	<li><h2>7-Banco de Dados(SQL)</h2></li>
+	<li></li>
+</ol>
+<ol>
+	<li><h2>8-Haja como profissional: TESTE ESSA JOSSA!</h2></li>
 	<li>A importância dos testes. É definitivamente um Inmetro que vai avaliar se esse programa que você está criando está apto a encarar a realidade, ou se ele necessita de reparos. Em várias maneiras de teste, aqui será abordada uma maneira pouco tradicional, senão no mundo da programação: Test Driven development(desenvolvimento guiado por testes). Ou seja, testa primeiro, depois escreve o código.</li>
 </ol>
 <ol>
-	<li><h2>6-GUI(Graphic User Interface)</h2></li>
+	<li><h2>9-GUI(Graphic User Interface)</h2></li>
 	<li>Não pule etapas, mas se você chegou até aqui, até o fim, está na hora de enfeitar. Você já criou seu programa, já evitou a repetição com as funções, usou do melhor possível da programação orientada a objeto, e já testou sua aplicação. Então agora ela precisa de uma interface gráfica. Aqui será apresentado o Tkinter, uma maneira simples de se criar interfaces gráficas com a biblioteca nativa do Python.</li>
 </ol>
 <b>Observações:</b> Aqui não está incluso desenvolvimento python para web, pois a utilização de frameworks específicos (como o django, flask, pyweb) se torna uma opção mais viável; Conforme eu for desenvolvendo o projeto, vou acrescentando e talvez modificando o conteúdo. 
