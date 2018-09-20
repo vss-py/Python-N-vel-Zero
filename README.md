@@ -50,4 +50,5 @@ Então, se você tá com dúvida, quer exemplos de aplicação, quer entender al
 	<li>Para executar cada linha de código, segure shift e aperte Enter, do contrário ele apenas pulará linha;</li>
 	<li>O Jupyter é um IDE bem intuitivo e de fácil assimilação. Não se esqueça de salvar o jogo antes de desligar o video-game.</li>
 </ol>
-<img src='ARQUIVOSDEILUSTRACAO/t.hanks.jpg'/>
+<h1>Obrigado, Muito Obrigado!</h1>
+<img src='ARQUIVOSDEILUSTRACAO/t.hanks.jpg' height="40%" width="40%"/>
