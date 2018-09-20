@@ -36,10 +36,10 @@ Então, se você tá com dúvida, quer exemplos de aplicação, quer entender al
 <h2><i>Versões utilizadas</i></h2>
 <ol>
 	<li>Python3.6.5</li> 
-	<li>Ipython3.4.0</li>
+	<li>Jupyter 4.4.0</li>
 	<li>Sistema Operacional: recomendável qualquer sistema operacional baseado em unix, como linux ou mac. Não que você não possa programar em Windows.</li>
 </ol>
-<h2><i>Como utilizar</i><h2>
+<h2><i>Como utilizar</i></h2>
 <ol>
 	<li>No Linux</li>
 	<li>sudo apt-get install python-pip (para a instalação do pip);</li>
