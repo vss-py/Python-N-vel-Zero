@@ -49,5 +49,5 @@ Então, se você tá com dúvida, quer exemplos de aplicação, quer entender al
 	<li>clique na aba news -> python3, e comece a brincar.</li>
 	<li>Para executar cada linha de código, segure shift e aperte Enter, do contrário ele apenas pulará linha;</li>
 	<li>O Jupyter é um IDE bem intuitivo e de fácil assimilação. Não se esqueça de salvar o jogo antes de desligar o video-game.</li>
-	![My image](vss-py.github.com/PythonNivelZero/ARQUIVOSDEILUSTRACAO/Chuck_Norris_Approved.jpg)
+	![chuck_norris_approved](https://user-images.githubusercontent.com/42150003/45831016-aad56300-bcd4-11e8-928e-27ab7356bcbe.jpg)
 </ol>
