@@ -38,6 +38,23 @@ Então, se você tá com dúvida, quer exemplos de aplicação, quer entender al
 	<li>Python3.6.5</li> 
 	<li>Ipython3.4.0</li>
 	<li>Sistema Operacional: recomendável qualquer sistema operacional baseado em unix, como linux ou mac. Não que você não possa programar em Windows.</li>
-
+</ol>
 <h2><i>Como utilizar</i><h2>
-
+<ol>
+	<ol>
+		<li><b>No Linux</b></li>
+		<li>sudo apt-get install python-pip (para a instalação do pip);</li>
+		<li>sudo apt-get install python-dev;</li>
+		<li>pip install jupyter (para a instalação do jupyter);</li>
+		<li>ainda no terminal, rode: jupyter notebook, dentro do diretório que deseja armazenar seus códigos;</li>
+		<li>clique na aba news -> python3, e comece a brincar.</li>
+		<li>Para executar cada linha de código, segure shift e aperte Enter, do contrário ele apenas pulará linha;</li>
+		<li>O Jupyter é um IDE bem intuitivo e de fácil assimilação. Não se esqueça de salvar o jogo antes de desligar o video-game.</li>
+	</ol>
+	<ol>
+		<li><b>No Mac</b></li>
+	</ol>
+	<ol>
+		<li><b>No Windows</b></li>
+	</ol>
+</ol>
