@@ -42,7 +42,7 @@ Então, se você tá com dúvida, quer exemplos de aplicação, quer entender al
 <h2><i>Como utilizar</i><h2>
 <ol>
 	<ol>
-		<li><b>No Linux</b></li>
+		<li>No Linux</li>
 		<li>sudo apt-get install python-pip (para a instalação do pip);</li>
 		<li>sudo apt-get install python-dev;</li>
 		<li>pip install jupyter (para a instalação do jupyter);</li>
@@ -52,9 +52,9 @@ Então, se você tá com dúvida, quer exemplos de aplicação, quer entender al
 		<li>O Jupyter é um IDE bem intuitivo e de fácil assimilação. Não se esqueça de salvar o jogo antes de desligar o video-game.</li>
 	</ol>
 	<ol>
-		<li><b>No Mac</b></li>
+		<li>No Mac</li>
 	</ol>
 	<ol>
-		<li><b>No Windows</b></li>
+		<li>No Windows</li>
 	</ol>
 </ol>
